@@ -10,7 +10,7 @@ My GitHub page is http://github.com/jacoboboy88.
 
 * Lab 7
 
-    Lab 7, Part-1 was one of my favorite labs that we have done. The reason why I liked this assignment was because I got the chance to be like a cop and was able to tell when cars were able to park in that certain place and at a certain time. I also loved having to work with numbers and if they were parking there at the right time and day. I learned how to create a function that could tell if cars were able to part there.
+    Lab 7, Part-1 was one of my favorite labs that we have done. The reason why I liked this assignment was because I got the chance to be like a cop and was able to tell when cars were able to park in that certain place and at a certain time. I also loved having to work with numbers and if they were parking there at the right time and day. I learned how to create a function that could tell if cars were able to park there.
 
 * Lab 6
 
